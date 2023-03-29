@@ -24,9 +24,9 @@ Once R is installed, run the the following commands to install the required pack
     install.packages('sf')
 ```
 
-**Note** If errors occur during lidR installation, install the following, ==gdal, geos, fftw==. Follow this documentation as guide https://gdal.org/download.html
+**Note** If errors occur during lidR installation, install the following, <mark>gdal, geos, fftw</mark>. Follow this documentation as guide https://gdal.org/download.html
 
-## Running 
+## Running
 
 ### VSCODE
 Install ==jupyter== extension in order to directly run the code.
